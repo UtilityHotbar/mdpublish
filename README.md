@@ -1,5 +1,5 @@
 # mdpublish
-Publishing from Markdown into book form via Bindery.js
+Publishing from Markdown into book form via [Bindery.js](https://bindery.info/).
 
 ## Usage
 1. Download `mdpublish.py` and place it in a directory named `mdpublish`.
